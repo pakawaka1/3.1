@@ -1,0 +1,33 @@
+/*Universals*/
+div {
+  inline: block;
+}
+
+h1 {
+  font-family: arial;
+}
+
+p {
+  font-size: 12px;
+  font-family: times;
+}
+
+h2 {
+  font-size: 20px;
+  font-family: arial;
+}
+
+.nav-new {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav {
+  height: 60px;
+  background-color: #fff333;
+}
+
+.jumbotron {
+  height: 1000px;
+  background-color: red;
+}
